@@ -1,0 +1,15 @@
+div img {
+  width: 320px;
+  height: 300px;
+  filter: grayscale(100%);
+}
+.user {
+  border: 2px solid black;
+  border-radius: 5px;
+  width: 320px;
+  margin: 10px;
+  text-align: center;
+  padding-bottom: 5px;
+  background-color: rgb(49, 46, 46);
+  color: white;
+}

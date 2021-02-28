@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+.title {
+  background-color: black;
+  color: white;
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.display-user {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+}
+.all {
+  display: flex;
+}
+.addedFriends {
+  width: 20%;
+}
